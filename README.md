@@ -29,3 +29,15 @@ m. me: dictionary
 n. me["teaching"]: array
 o. me["teaching"][0]["semester"]: integer (1)
 p. me["teaching"][0]["coursename"]: undefined (me["teaching"][0]["courseName"])
+
+
+## Week 06
+
+### Quiz
+
+a. Nothing, as the function is called but there's no print instruction to the program.
+
+b. For the program to print out the results of `yo(3)`, we'd need to add the following line:
+```python
+print(yo(3))
+```
