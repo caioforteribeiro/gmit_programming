@@ -41,3 +41,19 @@ b. For the program to print out the results of `yo(3)`, we'd need to add the fol
 ```python
 print(yo(3))
 ```
+
+## Week 07
+
+### Quiz
+
+a. It will throw an error, as the file doesn't exist. The default mode is `rt`, which reads but does not create a file. Reference: [W3 Schools - File Handling in Python](https://www.w3schools.com/python/python_file_handling.asp). Accessed in 11 March, 2021.
+
+b. The file `test-b.txt` will get created in write mode and the `write` function will display the number of characters in f and f2:
+    7
+    13
+c. It will print out the string "another line", because it will overwrite the previous string ("test b").
+d. "test d
+
+    another line
+
+    "
